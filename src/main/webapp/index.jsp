@@ -517,7 +517,7 @@
             <div style="display:flex;align-items:center;gap:18px;">
                 <button class="mobile-toggle" id="mobileToggle" aria-label="Open menu"><i class="fas fa-bars"></i></button>
                 <a class="brand" href="#">
-                    <span>Nexus<span class="accent">Shopping</span></span>
+                    <span>Nexus<span class="accent">Shopper test</span></span>
                 </a>
             </div>
 
